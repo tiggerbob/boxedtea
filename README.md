@@ -1,2 +1,1 @@
-i\hspace{1}cry
-
+$i\hspace{1}cry$
